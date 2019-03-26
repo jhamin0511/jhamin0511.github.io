@@ -4,8 +4,10 @@ main:
     url: "/android/"
   - title: "Language"
     url: "/language/"
-  - title: "categories"
+  - title: "Categories"
     url: "/categories/"
+  - title: "Posts"
+    url: "/posts/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
