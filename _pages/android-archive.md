@@ -1,6 +1,6 @@
 ---
 title: "Posts by Android"
-layout: archive
-permalink: /android/
+layout: category
+permalink: /android/recyclerview
 author_profile: true
 ---
