@@ -5,8 +5,8 @@ category:
   - Kotlin
 toc: true
 ---
-# [Kotlin Posts](https://jhamin0511.github.io/language/kotlin)
-* [[Kotlin 기초][변수]](https://jhamin0511.github.io/language/kotlin_basic_variable)
+**[Kotlin Posts](https://jhamin0511.github.io/language/kotlin)**
+* [[Kotlin 기초][변수]](https://jhamin0511.github.io/language/kotlin/basic_variable/)
 
 ## 변수1
 변수 1-1
