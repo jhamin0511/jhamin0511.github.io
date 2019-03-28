@@ -1,8 +1,7 @@
 ---
 title: "Posts by Android"
-layout: single
+layout: category
 permalink: /android/
 author_profile: true
+taxonomy: Android
 ---
-
-# [RecyclerView](https://jhamin0511.github.io/android/recyclerview/)

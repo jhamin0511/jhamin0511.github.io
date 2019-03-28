@@ -3,7 +3,6 @@ title: "코틀린 Test Post"
 categories: 
   - Android
   - RecyclerView
-last_modified_at: 2019-03-26T06:57:00+09:00
 toc: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Posts by Language"
-layout: archive
+layout: category
 permalink: /language/
 author_profile: true
+taxonomy: Language
 ---
