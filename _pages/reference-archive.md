@@ -24,6 +24,7 @@ classes: wide
 ## AAC Example
 ### [ACC Guide to app architecture](https://developer.android.com/jetpack/docs/guide)
 :thumbsup: Room + LiveData [Build an App with Architecture Components](https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html?index=..%2F..index#0) - [Google Codelabs](https://codelabs.developers.google.com/)
+
 :thumbsup: Room + LiveData + Dagger [The Missing Google Sample of Android “Architecture Components” Guide.](https://proandroiddev.com/the-missing-google-sample-of-android-architecture-components-guide-c7d6e7306b8f) - [Philippe BOISNEY](https://proandroiddev.com/@Phil_Boisney)
 
 ## [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
