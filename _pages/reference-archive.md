@@ -5,7 +5,7 @@ permalink: /reference/
 classes: wide
 ---
 
-# [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/)
+## [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/)
 
 ### [Data Binding](https://developer.android.com/topic/libraries/data-binding/)
 ### [Lifecycles](https://developer.android.com/topic/libraries/architect) 
@@ -21,12 +21,12 @@ classes: wide
 
 ### [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 
-# AAC Example
+## AAC Example
 ### [ACC Guide to app architecture](https://developer.android.com/jetpack/docs/guide)
 :thumbsup: Room + LiveData [Build an App with Architecture Components](https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html?index=..%2F..index#0) - [Google Codelabs](https://codelabs.developers.google.com/)
 :thumbsup: Room + LiveData + Dagger [The Missing Google Sample of Android “Architecture Components” Guide.](https://proandroiddev.com/the-missing-google-sample-of-android-architecture-components-guide-c7d6e7306b8f) - [Philippe BOISNEY](https://proandroiddev.com/@Phil_Boisney)
 
-# [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
+## [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
 ### [Dagger](https://google.github.io/dagger/)
 [Using Dagger 2 for dependency injection in Android Tutorial](https://www.vogella.com/tutorials/Dagger/article.html) - [vogella](https://www.vogella.com/)
   
