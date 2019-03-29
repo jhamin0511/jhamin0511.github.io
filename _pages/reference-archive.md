@@ -53,3 +53,5 @@ classes: wide
 #### Singleton
 * [Java Singleton Design Pattern Best Practices with Examples](https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples)
 * [Java Singleton Design Pattern – Best Practices with Examples](https://examples.javacodegeeks.com/core-java/java-singleton-design-pattern-best-practices-examples/) 
+* [Object level lock vs Class level lock in Java](https://howtodoinjava.com/java/multi-threading/object-vs-class-level-locking/) ─ [HowToDoInJava](https://howtodoinjava.com/)
+* [Why is Synchronized block better than synchronized method?](https://stackoverflow.com/questions/20906548/why-is-synchronized-block-better-than-synchronized-method) ─ [stackoverflow](https://stackoverflow.com/)
