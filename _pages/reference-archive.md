@@ -46,6 +46,7 @@ RESTful API
 * [RESTful API Design — Step By Step Guide](https://hackernoon.com/restful-api-design-step-by-step-guide-2f2c9f9fcdbf) ─ [Tanmay Deshpande](https://hackernoon.com/@tanmay.avinash.deshpande)
 
 [Retrofit](http://square.github.io/retrofit/)
+* :thumbsup: [Future Studio Retrofit Tutorial](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client) ─ [Future Studio](https://futurestud.io/)
 * [Using Retrofit 2.x as REST client Tutorial](https://www.vogella.com/tutorials/Retrofit/article.html) ─ [vogella](https://www.vogella.com/)
 * [Consuming APIs with Retrofit](https://github.com/codepath/android_guides/wiki/Consuming-APIs-with-Retrofit) ─ [codepath](https://codepath.org/)
 * [Configuring Retrofit 2 Client in Android](https://proandroiddev.com/configuring-retrofit-2-client-in-android-130455eaccbd) ─ [Akshay Moorthy](https://proandroiddev.com/@akshay_moorthy)
